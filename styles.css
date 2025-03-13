@@ -1,0 +1,45 @@
+.gradient-background {
+    background-color: #6482AD;
+}
+.feature{
+    background-color: #7FA1C3;
+}
+.skill{
+   background-color: #A1E3F9;
+   
+}
+@media(max-width:720px){
+.skills{
+    margin-left: 50px;
+}
+}
+.skills{
+    
+    margin-left: 110px;
+    
+}
+.skills img{
+    height: 225px;
+    width: 600px;
+    
+}
+
+.text{
+    font-family: sans-serif;
+   
+}
+.txt{
+    font-family: 'Brush Script MT', cursive;
+}
+
+.item{
+    display: flex;
+    justify-content: flex-start;
+    
+}
+.item img{
+    padding-left: 300px;
+}
+.skills ul{
+    font-family: "Garamond";
+}
